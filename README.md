@@ -203,8 +203,6 @@ The analysis answers 25 structured problem statements, including:
 
 - Seaborn
 
-- Scikit-learn (Clustering)
-
 - Jupyter Notebook
 
 - PowerPoint (Presentation)
